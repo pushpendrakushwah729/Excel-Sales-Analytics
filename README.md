@@ -16,6 +16,8 @@
 
 
 ## Finance Report :
+[Overall Financial Analytic Report(Excel file)](https://1drv.ms/x/c/d553198fb90d36e9/EQvT1sgoOjVMtPxRIz-_2p0BpIkNlHItqspT5qQ8qp6p5g?e=9fduud)
+
 
 - **Project objective:** 
 
